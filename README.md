@@ -53,6 +53,9 @@ The main objective is to understand how different factors affect medical insuran
 - Evaluating regression model performance.
 - Applying machine learning to a real-world dataset.
 
+🎓 Faculty Submission
+GitHub ID: [https://github.com/complexiota]
+
 ## Author
 **Sandesh Kondikire**
 
